@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "github"
+  "defaultProject": "github",
+  "cli": {
+    "analytics": "f481ff14-e115-4f78-97d1-be8ca1e78101"
+  }
 }
